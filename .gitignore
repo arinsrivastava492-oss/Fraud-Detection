@@ -1,0 +1,12 @@
+# Dataset (downloaded via scripts/download_data.py, ~150MB, not committed)
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
